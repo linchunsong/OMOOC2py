@@ -10,7 +10,7 @@ if wr == "w":
 		s = raw_input('Enter something : ')
 		target.write(s)
 		target.write('\n')
-		if s == 'quit':
+		if s == 'end':
 			break
 	target.close()
 	print 'Done'	
