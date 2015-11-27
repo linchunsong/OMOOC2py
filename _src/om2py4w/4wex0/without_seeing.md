@@ -41,7 +41,7 @@ google,stackoverflow各种搜索，还是不行。
 
 运行：
 
-```
+```python
 ➜  ipython  python -m IPython
 Python 2.7.9 (v2.7.9:648dcafa7e5f, Dec 10 2014, 10:10:46)
 Type "copyright", "credits" or "license" for more information.
